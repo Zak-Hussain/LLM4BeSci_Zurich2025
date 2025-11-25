@@ -1,0 +1,1 @@
+- try Qwen/Qwen3-0.6B instead of EleutherAI/gpt-neo-125m in day_1a?
