@@ -7,11 +7,11 @@ Materials by [Dirk Wulff](https://www.mpib-berlin.mpg.de/person/93374/2549) and 
 ### Schedule
 
 #### Day 1
-<font style="font-size:10">09:30 AM - 09:45 AM: Welcome & Intro<br>
-09:45 AM - 10:30 AM: [Talk: Intro to LLMs](day_1/day_1a.pdf)<br>
-10:30 AM - 10:45 AM: Break<br>
-10:45 AM - 11:10 AM: [Talk: A gentle intro to Hugging Face and Python](day_1/day_1b.pdf)<br>
-11:10 AM - 11:30 AM: Setup Colab<br>
+<font style="font-size:10">09:30 AM - 10:00 AM: Welcome & Intro<br>
+10:00 AM - 10:45 AM: [Talk: Intro to LLMs](day_1/day_1a.pdf)<br>
+10:45 AM - 11:00 AM: Break<br>
+11:00 AM - 11:20 AM: [Talk: A gentle intro to Hugging Face and Python](day_1/day_1b.pdf)<br>
+11:20 AM - 11:30 AM: Setup Colab<br>
 11:30 AM - 12:00 PM: [Exercise: Running pipelines](day_1/day_1.ipynb)<br>
 12:00 PM - 01:00 PM: Lunch<br>
 01:00 PM - 01:30 PM: Walkthrough<br>
