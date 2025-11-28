@@ -1,1 +1,1 @@
-- try Qwen/Qwen3-0.6B instead of EleutherAI/gpt-neo-125m in day_1a?
+- "microsoft/Phi-3.5-mini-instruct" works in place of llama, however need to add
