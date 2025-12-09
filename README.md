@@ -24,7 +24,7 @@ Materials by [Dirk Wulff](https://www.mpib-berlin.mpg.de/person/93374/2549) and 
 
 #### Day 2
 09:00 AM - 09:30 AM: Recap quiz<br>
-09:30 AM - 10:15 AM: [Talk: Intro to classification and regression](day_3/day_3.pdf)<br>
+09:30 AM - 10:15 AM: [Talk: Intro to classification and regression](day_2/day_2.pdf)<br>
 10:15 AM - 10:30 AM: Break<br>
 10:30 AM - 11:30 AM: Exercises: Classifying media bias using [text generation](day_2/day_2a.ipynb) and [feature extraction](day_2/day_2b.ipynb)<br>
 11:30 AM - 12:00 PM: Walkthrough<br>
